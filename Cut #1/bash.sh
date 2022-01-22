@@ -1,0 +1,1 @@
+cut -c 3 # Cut the 3rd character of the string
