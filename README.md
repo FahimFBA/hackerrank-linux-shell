@@ -10,6 +10,7 @@
 - 🐧 For Linux / MacOS 
 
   1. Install [VS Code](https://code.visualstudio.com/).
+  2. Install Git if you don't have it.
 
 
 ## 💡 Follow the index 
