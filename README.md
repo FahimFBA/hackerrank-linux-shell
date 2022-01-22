@@ -15,6 +15,9 @@
 
 ## 💡 Follow the index 
 
-| Problem ID (According to my solution) | Problem Name |             Solution             |      Complete Explanation with YouTube Video      |
-|:-------------------------------------:|:------------:|:--------------------------------:|:-------------------------------------------------:|
-|                  01                   |  Let's Echo  | [Solution](Let's%20Echo/bash.sh) | [Video Explanation](https://youtu.be/SVOS5sXQdVY) |
+####  Problems IDs are not any official ID. It's just a simple sequence according to my solution
+
+
+| Problem ID | Problem Name |                                               Question                                               |             Solution             |      Complete Explanation with YouTube Video      |
+|:----------:|:------------:|:----------------------------------------------------------------------------------------------------:|:--------------------------------:|:-------------------------------------------------:|
+|     01     |  Let's Echo  | [Question](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem?isFullScreen=true) | [Solution](Let's%20Echo/bash.sh) | [Video Explanation](https://youtu.be/SVOS5sXQdVY) |
