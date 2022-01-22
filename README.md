@@ -15,7 +15,7 @@
 
 ## 💡 Follow the index 
 
-####  Problems IDs are not any official ID. It's just a simple sequence according to my solution
+<i>Problems IDs are not any official ID. They are just simple sequences according to my solution.</i>
 
 
 | Problem ID | Problem Name |                                               Question                                               |             Solution             |      Complete Explanation with YouTube Video      |
