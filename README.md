@@ -14,6 +14,6 @@
 
 ## Follow the index 
 
-| Problem ID (According to my solution) | Problem Name | Solution                         | Complete Explanation with YouTube Video           |
-|---------------------------------------|--------------|----------------------------------|---------------------------------------------------|
-| 01                                    | Let's Echo   | [Solution](Let's%20Echo/bash.sh) | [Video Explanation](https://youtu.be/SVOS5sXQdVY) |
+| Problem ID (According to my solution) | Problem Name |             Solution             |      Complete Explanation with YouTube Video      |
+|:-------------------------------------:|:------------:|:--------------------------------:|:-------------------------------------------------:|
+|                  01                   |  Let's Echo  | [Solution](Let's%20Echo/bash.sh) | [Video Explanation](https://youtu.be/SVOS5sXQdVY) |
